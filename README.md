@@ -9,7 +9,7 @@ This is a demo project for hosting a static website using Azure Blob Storage.
 3. Set `index.html` as the entry point.
 4. Uploaded `index.html` to the **$web** container.
 5. Accessed the website at:
-6. 6. Verified deployment was successful.
+6. Verified deployment was successful.
 7. Deleted the storage account to avoid Azure charges.
 
 ## 💡 Notes
